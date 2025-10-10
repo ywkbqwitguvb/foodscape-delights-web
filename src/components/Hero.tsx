@@ -46,16 +46,22 @@ const Hero = () => {
             <Button 
               size="lg" 
               className="bg-primary-foreground text-primary hover:bg-primary-foreground/90 shadow-elegant text-lg px-8 py-6 rounded-full font-semibold"
+              asChild
             >
-              <Phone className="mr-2 h-5 w-5" />
-              Call: 07060992150
+              <a href="#booking">
+                Book Your Event
+              </a>
             </Button>
             <Button 
               size="lg" 
               variant="outline"
               className="bg-primary-foreground/10 text-primary-foreground border-primary-foreground/50 hover:bg-primary-foreground/20 backdrop-blur-sm text-lg px-8 py-6 rounded-full font-semibold"
+              asChild
             >
-              Explore Our Services
+              <a href="tel:07060992150">
+                <Phone className="mr-2 h-5 w-5" />
+                Call: 07060992150
+              </a>
             </Button>
           </div>
         </div>

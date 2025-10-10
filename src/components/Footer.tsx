@@ -36,6 +36,11 @@ const Footer = () => {
                 </a>
               </li>
               <li>
+                <a href="#booking" className="text-primary-foreground/90 hover:text-primary-foreground transition-colors">
+                  Book Event
+                </a>
+              </li>
+              <li>
                 <a href="#contact" className="text-primary-foreground/90 hover:text-primary-foreground transition-colors">
                   Contact
                 </a>

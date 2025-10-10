@@ -10,6 +10,7 @@ const Navbar = () => {
     { name: "Services", href: "#services" },
     { name: "About", href: "#about" },
     { name: "Gallery", href: "#gallery" },
+    { name: "Booking", href: "#booking" },
     { name: "Contact", href: "#contact" },
   ];
 
