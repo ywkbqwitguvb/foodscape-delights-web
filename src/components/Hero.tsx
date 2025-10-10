@@ -23,6 +23,8 @@ const Hero = () => {
               <img 
                 src={flyerLogo} 
                 alt="Foodxcape by Sharon" 
+                width="160"
+                height="160"
                 className="w-full h-full rounded-full object-cover"
               />
             </div>
