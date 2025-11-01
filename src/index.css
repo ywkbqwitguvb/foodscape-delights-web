@@ -8,7 +8,7 @@ All colors MUST be HSL.
 
 @layer base {
   :root {
-    /* Warm, appetizing color palette for Foodxcape */
+    /* Warm, appetizing color palette for Foodscape */
     --background: 32 30% 96%;
     --foreground: 20 15% 15%;
 

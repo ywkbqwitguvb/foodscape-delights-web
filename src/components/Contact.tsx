@@ -67,9 +67,9 @@ const Contact = () => {
                     className="bg-primary-foreground/10 text-primary-foreground border-primary-foreground/30 hover:bg-primary-foreground/20 backdrop-blur-sm"
                     asChild
                   >
-                    <a href="https://instagram.com/foodxcape_sharon" target="_blank" rel="noopener noreferrer">
+                    <a href="https://instagram.com/foodscape_sharon" target="_blank" rel="noopener noreferrer">
                       <Instagram className="mr-2 h-5 w-5" />
-                      @FOODXCAPE_SHARON
+                      @FOODSCAPE_SHARON
                     </a>
                   </Button>
                 </div>
