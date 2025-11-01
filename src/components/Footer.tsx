@@ -8,7 +8,7 @@ const Footer = () => {
           {/* About */}
           <div>
             <h3 className="text-2xl font-bold mb-4 font-['Playfair_Display']">
-              Foodscape by Sharon
+              Foodxcape by Sharon
             </h3>
             <p className="text-primary-foreground/90 mb-4">
               Creating memorable culinary experiences in Abuja. Your trusted partner for catering, 
@@ -73,7 +73,7 @@ const Footer = () => {
                   <Facebook className="h-6 w-6" />
                 </a>
                 <a 
-                  href="https://instagram.com/foodscape_sharon" 
+                  href="https://instagram.com/foodxcape_sharon" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="text-primary-foreground/90 hover:text-primary-foreground transition-colors"
@@ -87,7 +87,7 @@ const Footer = () => {
 
         <div className="border-t border-primary-foreground/20 pt-8 text-center">
           <p className="text-primary-foreground/80">
-            © {new Date().getFullYear()} Foodscape by Sharon. All rights reserved.
+            © {new Date().getFullYear()} Foodxcape by Sharon. All rights reserved.
           </p>
         </div>
       </div>

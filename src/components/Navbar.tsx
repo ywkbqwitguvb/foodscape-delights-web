@@ -20,7 +20,7 @@ const Navbar = () => {
         <div className="flex items-center justify-between h-20">
           {/* Logo */}
           <a href="#home" className="text-2xl font-bold text-primary font-['Playfair_Display']">
-            Foodscape by Sharon
+            Foodxcape by Sharon
           </a>
 
           {/* Desktop Navigation */}

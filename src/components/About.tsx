@@ -14,11 +14,11 @@ const About = () => {
         <div className="max-w-4xl mx-auto">
           <div className="text-center mb-12 animate-fade-in">
             <h2 className="text-4xl md:text-5xl font-bold mb-6 text-foreground font-['Playfair_Display']">
-              About Foodscape
+              About Foodxcape
             </h2>
             <div className="space-y-4 text-lg text-muted-foreground leading-relaxed">
               <p>
-                Welcome to <span className="text-primary font-semibold">Foodscape by Sharon</span>, 
+                Welcome to <span className="text-primary font-semibold">Foodxcape by Sharon</span>, 
                 where culinary artistry meets exceptional service. Based in Abuja, we are your trusted 
                 partner for creating unforgettable dining experiences.
               </p>
@@ -29,7 +29,7 @@ const About = () => {
                 and refreshing natural fruit juices.
               </p>
               <p>
-                At Foodscape, we believe that great food brings people together. Let us make your 
+                At Foodxcape, we believe that great food brings people together. Let us make your 
                 next event truly memorable with our passion for excellence and attention to detail.
               </p>
             </div>

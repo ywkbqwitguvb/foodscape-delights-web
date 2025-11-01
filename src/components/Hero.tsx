@@ -22,7 +22,7 @@ const Hero = () => {
             <div className="w-40 h-40 rounded-full bg-background p-2 shadow-glow">
               <img 
                 src={flyerLogo} 
-                alt="Foodscape by Sharon" 
+                alt="Foodxcape by Sharon" 
                 width="160"
                 height="160"
                 className="w-full h-full rounded-full object-cover"
@@ -32,7 +32,7 @@ const Hero = () => {
 
           {/* Heading */}
           <h1 className="text-5xl md:text-7xl font-bold mb-6 text-primary-foreground font-['Playfair_Display']">
-            Foodscape by Sharon
+            Foodxcape by Sharon
           </h1>
           
           <p className="text-xl md:text-2xl mb-4 text-primary-foreground/95 font-medium">

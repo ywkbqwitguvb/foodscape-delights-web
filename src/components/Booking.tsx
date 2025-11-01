@@ -262,7 +262,7 @@ const Booking = () => {
               </Button>
 
               <p className="text-sm text-muted-foreground text-center">
-                By submitting this form, you agree to be contacted by Foodscape by Sharon
+                By submitting this form, you agree to be contacted by Foodxcape by Sharon
               </p>
             </form>
           </Card>
