@@ -1,17 +1,18 @@
-import heroFood from "@/assets/hero-food.jpg";
-import snacksImg from "@/assets/snacks.jpg";
-import cakesImg from "@/assets/cakes.jpg";
-import juicesImg from "@/assets/juices.jpg";
-import eventImg from "@/assets/event-planning.jpg";
-import chinchinImg from "@/assets/chinchin.jpg";
+import chinchinDisplay from "@/assets/sharon-chinchin-display.jpg";
+import chinchinPackages from "@/assets/sharon-chinchin-packages.jpg";
+import chinchinBag from "@/assets/sharon-chinchin-bag.jpg";
+import cakeImg from "@/assets/sharon-cake.jpg";
+import foodDish from "@/assets/sharon-food-dish.jpg";
+import juicesImg from "@/assets/sharon-juices.jpg";
+import wrappedFood from "@/assets/sharon-wrapped-food.jpg";
 
 const images = [
-  { src: heroFood, alt: "Delicious catering spread" },
-  { src: cakesImg, alt: "Beautiful celebration cake" },
-  { src: snacksImg, alt: "Assorted small chops" },
-  { src: eventImg, alt: "Elegant event setup" },
-  { src: juicesImg, alt: "Fresh fruit juices" },
-  { src: chinchinImg, alt: "Traditional chinchin" },
+  { src: chinchinDisplay, alt: "Sharon Treats Chinchin display" },
+  { src: cakeImg, alt: "Elegant decorated cake" },
+  { src: chinchinPackages, alt: "Packaged chinchin treats" },
+  { src: foodDish, alt: "Delicious prepared dish" },
+  { src: juicesImg, alt: "Sharon's fresh fruit juices" },
+  { src: wrappedFood, alt: "Traditional wrapped delicacies" },
 ];
 
 const Gallery = () => {
